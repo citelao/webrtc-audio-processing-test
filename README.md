@@ -15,6 +15,6 @@ cmake -B build -S . `
 # Build
 cmake --build build
 
-# Run
+# Run (exits code 0 on success)
 .\build\Debug\main.exe
 ```
